@@ -261,7 +261,7 @@ Rtree @ file:///C:/ci/rtree_1618421015405/work
 ruamel-yaml-conda @ file:///C:/ci/ruamel_yaml_1616016898638/work
 s3transfer @ file:///C:/ci/s3transfer_1654512518418/work
 scikit-image @ file:///C:/ci/scikit-image_1648214340990/work
-scikit-learn @ file:///C:/ci/scikit-learn_1642617276183/work
+scikit-learn==0.24.2
 scikit-learn-intelex==2021.20221004.171935
 scikit-optimize==0.9.0
 scipy==1.9.1
