@@ -1,4 +1,4 @@
-# Clicked Ads ML Classification Model 🖱️
+# 🖱️ Clicked Ads ML Classification Model 🚀
 ## Overview
 This repository houses a machine learning classification model developed to evaluate the efficacy of an advertising campaign by analyzing historical advertising data. The goal is to identify patterns and insights that can inform marketing strategies, ultimately targeting the appropriate audience for the advertisement.
 
