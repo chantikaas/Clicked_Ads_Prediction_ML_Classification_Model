@@ -35,7 +35,7 @@ def user_input_features():
     daily_time_spent = st.sidebar.number_input('⏰Average Daily Time Spent on Company Website (Minutes)', value=30)
     daily_internet_usage = st.sidebar.number_input('🌐Average Daily Internet Usage (MB)', value=100)
     age = st.sidebar.number_input('🎂Age', value=40)
-    area_income = st.sidebar.number_input('💸Average Area Income (IDR)', value=100000000)
+    area_income = st.sidebar.number_input('💸Area Income (IDR)', value=100000000)
     data = {'Daily Time Spent on Site' : daily_time_spent,
             'Age' : age,
             'Area Income' : area_income,
